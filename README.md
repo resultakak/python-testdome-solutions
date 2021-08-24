@@ -9,3 +9,4 @@
 - [7. Student Majors](7_Student_Majors)
 - [8. Quadratic Equation](8_Quadratic_Equation)
 - [9. Song](9_Song)
+- [10. Two Sum](10_Two_Sum)
