@@ -6,3 +6,4 @@
 - [4. Merge Names](4_Merge_Names)
 - [5. Sorted Search](5_Sorted_Search)
 - [6. File Owners](6_File_Owners)
+- [7. Student Majors](7_Student_Majors)
