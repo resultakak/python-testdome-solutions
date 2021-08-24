@@ -5,3 +5,4 @@
 - [3. Binary Search Tree](3_Binary_Search_Tree)
 - [4. Merge Names](4_Merge_Names)
 - [5. Sorted Search](5_Sorted_Search)
+- [6. File Owners](6_File_Owners)
