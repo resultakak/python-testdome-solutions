@@ -1,4 +1,4 @@
-# 4_Merge_Names
+# Merge Names
 
 - `PYTHON` `LIST` `PUBLIC`
 - Difficulty: Easy
